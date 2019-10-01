@@ -25,6 +25,7 @@ ashwini
 - [mskiser](http://github.com/mskiser)
 - [Mrunal Deshpande](https://github.com/pixel-daemon)
 Rich Herbert
+- [AncaMaria] (https://github.com/IamAnca)
 - [MrHritik](https://github.com/Hritik14)
 - [C Barringhaus] (https://github.com/cheriesyb)
 - [Eren Jaegar](https://github.com/erenjaegar)
